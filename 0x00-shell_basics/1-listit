@@ -1,2 +1,2 @@
 #!/bin/bash
-CRLF ls
+LF ls
