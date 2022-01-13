@@ -18,3 +18,5 @@ Files | Description
 [101-tell_the_story_of_passwd](./101-tell_the_story_of_passwd) | Bash script that displays a story with each line of /etc/passwd
 [102-lets_parse_apache_logs](./102-lets_parse_apache_logs) | Bash scripts that parses an Apache log file and displays the IP and HTTP code for each visitor
 [103-dig_the-data](./103-dig_the-data) | Bash script that parses an Apache log file and displays the IP and HTTP code for each visitor, along with the number of occurences
+## Author
+** GetinetA [@getinet1221](https://github.com/getinet1221)
