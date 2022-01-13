@@ -19,4 +19,4 @@ Files | Description
 [102-lets_parse_apache_logs](./102-lets_parse_apache_logs) | Bash scripts that parses an Apache log file and displays the IP and HTTP code for each visitor
 [103-dig_the-data](./103-dig_the-data) | Bash script that parses an Apache log file and displays the IP and HTTP code for each visitor, along with the number of occurences
 ## Author
-**GetinetA** [@getinet1221](https://github.com/getinet1221)
+- **GetinetA** [@getinet1221](https://github.com/getinet1221)
