@@ -12,14 +12,11 @@ Files | Description
 [6-stop_me_if_you_can](./6-stop_me_if_you_can) | Write a Bash script that stops 4-to_infinity_and_beyond process.
 [7-highlander](./7-highlander) | Bash script that displays To infinity and beyond indefinitely, With a sleep 2 in between each iteration, I am invincible!!! when receiving a SIGTERM signal
 [8-beheaded_process](./8-beheaded_process) | Bash script that kills the process 7-highlander
-[100-process_and_pid_file](./100-process_and_pid_file) | Bash script that: Creates the file /var/run/holbertonscript.pid containing its PID, Displays To infinity and beyond indefinitely, Displays I hate the kill command when receiving a SIGTERM signal, Displays Y U no love me?! when receiving a SIGINT signal, Deletes the file /var/run/holbertonscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
+[100-process_and_pid_file](./100-process_and_pid_file) | Bash script that: Creates the file /var/run/myscript.pid containing its PID, Displays To infinity and beyond indefinitely, Displays I hate the kill command when receiving a SIGTERM signal, Displays Y U no love me?! when receiving a SIGINT signal, Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
 [101-manage_my_process](./101-manage_my_process) | Bash init script that manages the daemon manage_my_process
 [manage_my_process](./manage_my_process) | Daemon script for task 101
 [102-zombie.c](./102-zombie.c) | C program that creates 5 zombie processes.
 
 ## Author
 
-Name | Address
------ | -----------
-- **GetinetA** | [@getinet1221](https://github.com/getinet1221)
-- **GetinetA** | [@getinet1221](https://github.com/getinet1221)
+- **GetinetA** [@getinet1221](https://github.com/getinet1221)
