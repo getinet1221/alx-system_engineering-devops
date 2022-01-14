@@ -16,8 +16,10 @@ Files | Description
 [101-manage_my_process](./101-manage_my_process) | Bash init script that manages the daemon manage_my_process
 [manage_my_process](./manage_my_process) | Daemon script for task 101
 [102-zombie.c](./102-zombie.c) | C program that creates 5 zombie processes.
+
 ## Author
+
 Name | Address
----- | -------
+----- | -----------
 - **GetinetA** | [@getinet1221](https://github.com/getinet1221)
 - **GetinetA** | [@getinet1221](https://github.com/getinet1221)
