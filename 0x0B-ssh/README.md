@@ -11,4 +11,4 @@ Files | Description
 [2-ssh_config](./2-ssh_config) | SSH client configuration
 [4-puppet_ssh_config.pp](./4-puppet_ssh_config.pp) | sets up a client SSH configuration file so that we can connect to a server without using a password 
 - Author
-- [GetinetA](https://github.com/getinet1221)
+	- [GetinetA](https://github.com/getinet1221)
