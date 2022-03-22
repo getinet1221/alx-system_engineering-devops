@@ -7,7 +7,7 @@ apt-get -y install haproxy=1.8.\*
 sed -i '/errorfile 504/a listen thelaura' /etc/haproxy/haproxy.cfg
 sed -i '/listen thelaura/a         bind :80' /etc/haproxy/haproxy.cfg
 sed -i '/bind :80/a         mode http' /etc/haproxy/haproxy.cfg
-sed -i '/mode http/a         server 652-web-01 35.190.145.187:80 check' /etc/haproxy/haproxy.cfg
-sed -i '/server 652-web-01 35.190.145.187:80 check/a         server 652-web-02 35.196.156.157:80 check' /etc/haproxy/haproxy.cfg
+sed -i '/mode http/a         server 1412-web-01 34.138.241.130:80 check' /etc/haproxy/haproxy.cfg
+sed -i '/server 1412-web-02 44.192.38.192:80 check/a         server 1412-lb-01 34.204.203.36:80 check' /etc/haproxy/haproxy.cfg
 sed -i '/#EXTRAOPTS="-de -m 16"/a ENABLED=1' /etc/default/haproxy
 service haproxy start
