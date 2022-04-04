@@ -2,7 +2,7 @@
 
 ## Resources:books:
 Read or watch:
-* [What is a firewall](https://intranet.hbtn.io/rltoken/QS5iHSDU_woydPRIb68sOw)
+* [What is a firewall](https://en.wikipedia.org/wiki/Firewall_%28computing%29)
 
 ---
 ## Tasks:
@@ -19,4 +19,4 @@ Read or watch:
 ---
 
 ## Author
-* **Estephania Calvo Carvajal** - [EstephaniaCalvoC](https://github.com/EstephaniaCalvoC)
+* **Getinet Amare** - [Getinet Amare](https://github.com/getinet1221)
