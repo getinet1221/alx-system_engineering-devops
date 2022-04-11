@@ -11,3 +11,5 @@ Files | Description
 [1-export_to_CSV.py](./1-export_to_CSV.py) | Python script to export data in the CSV format, extending from 0-gather_data_from_an_API.py
 [2-export_to_JSON.py](./2-export_to_JSON.py) | Python script to export data in the JSON format, extending from 0-gather_data_from_an_API.py
 [3-dictionary_of_list_of_dictionaries.py](./3-dictionary_of_list_of_dictionaries.py) | Python script to export data in the JSON format, extending from 0-gather_data_from_an_API.py and 2-export_to_JSON.py 
+# Author
+- [Getinet Amare](https://www.github.com/getinet1221)
